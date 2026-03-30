@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8a687b6173a106c3",
+        "id": "720351c9b024177e",
         "type": "tabs",
         "children": [
           {
-            "id": "b1853604cd0fbdae",
+            "id": "121ded6c80fa46ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Procedimiento eficaz.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": true,
+                  "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Procedimiento eficaz"
+              "title": "README"
             }
           }
         ]
@@ -51,12 +51,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Procedimiento eficaz.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Procedimiento eficaz"
+              "title": "Outgoing links from README"
             }
           }
         ]
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Procedimiento eficaz.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,7 +82,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Procedimiento eficaz"
+              "title": "Backlinks for README"
             }
           }
         ]
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Procedimiento eficaz.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +142,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Procedimiento eficaz"
+              "title": "Graph of README"
             }
           }
         ]
@@ -217,10 +217,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1853604cd0fbdae",
+  "active": "121ded6c80fa46ef",
   "lastOpenFiles": [
-    "This is a test.md",
+    "README.md",
+    "Lambda Functions.md",
+    "Decodificadores y multiplexores.md",
     "Procedimiento eficaz.md",
+    "This is a test.md",
     "Pasted image 20260223163948.png",
     "Element.md",
     "HTTP.md",
@@ -230,7 +233,6 @@
     "2026-03-29.md",
     "Lambda Conditionals.md",
     "Lambda Arithmetic.md",
-    "Lambda Functions.md",
     "Frontend Development.md",
     "Markup languages.md",
     "what.md",
@@ -244,8 +246,6 @@
     "CIRC?.md",
     "máquina de Turing.md",
     "Funciones recursivas primitivas.md",
-    "Formalismos para prodecimientos eficaces.md",
-    "CTP-T.md",
     "Pasted image 20260320185204.png",
     "Pasted image 20260320174938.png",
     "Pasted image 20260320174928.png",
