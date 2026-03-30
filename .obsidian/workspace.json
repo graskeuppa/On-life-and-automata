@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "74c94de3075d5598",
+        "id": "8a687b6173a106c3",
         "type": "tabs",
         "children": [
           {
-            "id": "f0af5d6476186098",
+            "id": "b1853604cd0fbdae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "This is a test.md",
+                "file": "JavaScript.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "This is a test"
+              "title": "JavaScript"
             }
           }
         ]
@@ -42,21 +51,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "ece1ef27f35b0ef1",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Outgoing links from JavaScript"
             }
           }
         ]
@@ -72,6 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavaScript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,15 +82,14 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for JavaScript"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ad7ff029d8bf5f51",
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "This is a test.md",
+                "file": "JavaScript.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,44 +137,26 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 156,
-                  "scale": 1.1978301589152531,
+                  "scale": 0.9109742727942693,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of This is a test"
+              "title": "Graph of JavaScript"
             }
           },
           {
-            "id": "817fabf6c7020f81",
+            "id": "440e5ca521a42791",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "35fbc66eb6958c94",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "887b6a5ee9053532",
@@ -246,15 +228,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0af5d6476186098",
+  "active": "b1853604cd0fbdae",
   "lastOpenFiles": [
+    "CSS.md",
+    "JavaScript.md",
+    "HTTP.md",
+    "Element.md",
+    "Browsers.md",
+    "2026-03-29.md",
+    "Lambda Conditionals.md",
+    "Lambda Arithmetic.md",
+    "Lambda Functions.md",
+    "Frontend Development.md",
+    "Markup languages.md",
+    "what.md",
+    "Hosting.md",
+    "Circularidad.md",
     "This is a test.md",
     "Lambda Recursion.md",
-    "Lambda Arithmetic.md",
     "Untitled 1.md",
-    "Lambda Conditionals.md",
     "Cánones de Church.md",
-    "Circularidad.md",
     "CTP-T como ley natural.md",
     "Temas del examen de autómatas.md",
     "CIRC?.md",
@@ -263,18 +256,7 @@
     "Formalismos para prodecimientos eficaces.md",
     "CTP-T.md",
     "Preguntas (Práctica 5).md",
-    "Llamadas a sistema en MIPS.md",
-    "Tipos de operaciones en MIPS.md",
     "Pasted image 20260320185204.png",
-    "Teoría de la computación.md",
-    "Lambda Functions.md",
-    "MIPS.md",
-    "Lambda Calculus.md",
-    "$a$.md",
-    "Preguntas.md",
-    "Tarea 2 - Computabilidad y decibilidad.md",
-    "Tarea 1 - OYA.md",
-    "Decodificadores y multiplexores.md",
     "Pasted image 20260320174938.png",
     "Pasted image 20260320174928.png",
     "Pasted Image 20260320172629_086.png",

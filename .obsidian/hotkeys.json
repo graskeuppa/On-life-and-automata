@@ -1,6 +1,5 @@
 {
-  "switcher:open": [],
-  "omnisearch:show-modal": [
+  "switcher:open": [
     {
       "modifiers": [
         "Mod"
@@ -16,5 +15,14 @@
       "key": "S"
     }
   ],
-  "editor:save-file": []
+  "editor:save-file": [],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ]
 }
