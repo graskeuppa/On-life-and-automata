@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "720351c9b024177e",
+        "id": "9863031fc9e5a4b1",
         "type": "tabs",
         "children": [
           {
-            "id": "121ded6c80fa46ef",
+            "id": "087b34ff73786f4d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Pasted image 20260223092754.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260223092754"
-            }
-          },
-          {
-            "id": "ef3f39348cee4f3d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Pasted image 20260308211945.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260308211945"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,12 +51,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Pasted image 20260308211945.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20260308211945"
+              "title": "Outgoing links from README"
             }
           }
         ]
@@ -73,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Pasted image 20260308211945.png",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,7 +82,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20260308211945"
+              "title": "Backlinks for README"
             }
           }
         ]
@@ -107,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Attachments/Pasted image 20260308211945.png",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +142,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Pasted image 20260308211945"
+              "title": "Graph of README"
             }
           }
         ]
@@ -159,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Pasted image 20260308211945.png",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260308211945"
+              "title": "Outline of README"
             }
           },
           {
@@ -219,8 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10e877f09d979f42",
+  "active": "087b34ff73786f4d",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260223092754.png",
+    "Attachments/Pasted image 20260308211945.png",
+    "Notes/was.md",
     "Notes/Lambda Arithmetic.md",
     "Notes/Llamadas a sistema en MIPS.md",
     "Notes/Decodificadores y multiplexores.md",
@@ -235,9 +237,7 @@
     "Notes/Increasing one's intelligence.md",
     "Notes/Funciones recursivas primitivas.md",
     "Notes/Getting better.md",
-    "Attachments/Pasted image 20260308211945.png",
     "Notes/Markup languages.md",
-    "Attachments/Pasted image 20260223092754.png",
     "Attachments/Pasted image 20260223163948.png",
     "Attachments/Pasted image 20260223172740.png",
     "Notes/HTML Basics.md",
@@ -252,8 +252,6 @@
     "Notes/CSS.md",
     "Notes/JavaScript.md",
     "Notes/Browsers.md",
-    "2026-03-29.md",
-    "Notes/Lambda Conditionals.md",
     "Attachments/Pasted image 20260320185204.png",
     "Attachments/Pasted image 20260320174938.png",
     "Attachments/Pasted image 20260320174928.png",
