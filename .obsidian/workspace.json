@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript.md",
-                "mode": "preview",
+                "file": "Procedimiento eficaz.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
+                  "collapseAll": true,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "Procedimiento eficaz"
             }
           }
         ]
@@ -51,12 +51,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Procedimiento eficaz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from JavaScript"
+              "title": "Outgoing links from Procedimiento eficaz"
             }
           }
         ]
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Procedimiento eficaz.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,7 +82,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JavaScript"
+              "title": "Backlinks for Procedimiento eficaz"
             }
           }
         ]
@@ -106,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Procedimiento eficaz.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,21 +142,10 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of JavaScript"
-            }
-          },
-          {
-            "id": "440e5ca521a42791",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Graph of Procedimiento eficaz"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "887b6a5ee9053532",
@@ -230,10 +219,13 @@
   },
   "active": "b1853604cd0fbdae",
   "lastOpenFiles": [
+    "This is a test.md",
+    "Procedimiento eficaz.md",
+    "Pasted image 20260223163948.png",
+    "Element.md",
+    "HTTP.md",
     "CSS.md",
     "JavaScript.md",
-    "HTTP.md",
-    "Element.md",
     "Browsers.md",
     "2026-03-29.md",
     "Lambda Conditionals.md",
@@ -244,7 +236,6 @@
     "what.md",
     "Hosting.md",
     "Circularidad.md",
-    "This is a test.md",
     "Lambda Recursion.md",
     "Untitled 1.md",
     "Cánones de Church.md",
@@ -255,7 +246,6 @@
     "Funciones recursivas primitivas.md",
     "Formalismos para prodecimientos eficaces.md",
     "CTP-T.md",
-    "Preguntas (Práctica 5).md",
     "Pasted image 20260320185204.png",
     "Pasted image 20260320174938.png",
     "Pasted image 20260320174928.png",
@@ -266,7 +256,6 @@
     "Pasted image 20260320171320.png",
     "Pasted image 20260320170637.png",
     "Pasted image 20260320001801.png",
-    "Pasted image 20260319235906.png",
     "Untitled",
     "Untitled.canvas",
     "Untitled.base"
