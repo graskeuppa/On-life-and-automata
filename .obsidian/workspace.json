@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Notes/Lambda Recursion.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Lambda Recursion"
             }
           }
         ]
@@ -51,12 +51,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -72,7 +71,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,7 +80,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           }
         ]
@@ -106,7 +104,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +139,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph view"
             }
           }
         ]
@@ -158,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Untitled 1"
             }
           },
           {
@@ -218,40 +215,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "087b34ff73786f4d",
+  "active": "10e877f09d979f42",
   "lastOpenFiles": [
+    "Notes/Lambda Recursion.md",
+    "Notes/máquina de Turing.md",
+    "Notes/CTP-T como ley natural.md",
+    "Notes/Formalismos para prodecimientos eficaces.md",
+    "Notes/CTP-T.md",
+    "Notes/CIRC?.md",
+    "Notes/Lambda Conditionals.md",
+    "Notes/Preguntas (Práctica 5).md",
+    "Notes/Tipos de operaciones en MIPS.md",
+    "Notes/MIPS.md",
+    "Notes/Lambda Arithmetic.md",
+    "Notes/Lambda Calculus.md",
+    "Notes/Circuitos digitales.md",
+    "Notes/Minimización de funciones de conmutación.md",
+    "Notes/Untitled.md",
+    "Notes/Preguntas.md",
+    "Notes/Funciones de conmutación.md",
+    "Notes/Arquitectura de Von Neumann.md",
+    "Notes/Representación de números reales en punto flotante.md",
+    "Notes/Representación binaria de números negativos.md",
+    "Notes/Conversiones entre sistemas numéricos.md",
+    "Notes/Sistemas numéricos posicionales.md",
+    "Notes/Álgebra Booleana y los postulados de Huntington.md",
+    "Notes/Failure.md",
+    "Notes/Increasing one's intelligence.md",
+    "Notes/Temas del examen de autómatas.md",
     "Attachments/Pasted image 20260223092754.png",
     "Attachments/Pasted image 20260308211945.png",
-    "Notes/was.md",
-    "Notes/Lambda Arithmetic.md",
-    "Notes/Llamadas a sistema en MIPS.md",
-    "Notes/Decodificadores y multiplexores.md",
-    "Notes/Conjunto de operadores completo.md",
-    "Notes/Circuitos digitales.md",
-    "Notes/Untitled.md",
-    "Notes/Lambda Calculus.md",
-    "Notes/Minimización de funciones de conmutación.md",
     "Attachments/Pasted image 20260316192133.png",
-    "Notes/Ecuaciones de desempeño en CPU.md",
-    "Notes/Representación binaria de números negativos.md",
-    "Notes/Increasing one's intelligence.md",
-    "Notes/Funciones recursivas primitivas.md",
-    "Notes/Getting better.md",
-    "Notes/Markup languages.md",
     "Attachments/Pasted image 20260223163948.png",
     "Attachments/Pasted image 20260223172740.png",
-    "Notes/HTML Basics.md",
-    "README.md",
     "Notes",
     "Attachments",
-    "Notes/Lambda Functions.md",
-    "Notes/Procedimiento eficaz.md",
-    "This is a test.md",
-    "Notes/Element.md",
-    "Notes/HTTP.md",
-    "Notes/CSS.md",
-    "Notes/JavaScript.md",
-    "Notes/Browsers.md",
     "Attachments/Pasted image 20260320185204.png",
     "Attachments/Pasted image 20260320174938.png",
     "Attachments/Pasted image 20260320174928.png",
