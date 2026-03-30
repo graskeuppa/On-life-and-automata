@@ -11,10 +11,24 @@
             "id": "75660114f9034497",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -37,11 +51,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           }
         ]
@@ -57,6 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -66,7 +82,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           }
         ]
@@ -90,6 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +142,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of README"
             }
           }
         ]
@@ -199,8 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10e877f09d979f42",
+  "active": "75660114f9034497",
   "lastOpenFiles": [
+    "Notes/Markup languages.md",
+    "README.md",
     "Attachments/Drawing 2026-03-30 00.22.06.excalidraw.md",
     "Notes/Untitled.md",
     "Notes/Lambda Recursion.md",
@@ -225,8 +244,6 @@
     "Notes/Conversiones entre sistemas numéricos.md",
     "Notes/Sistemas numéricos posicionales.md",
     "Notes/Álgebra Booleana y los postulados de Huntington.md",
-    "Notes/Failure.md",
-    "Notes/Increasing one's intelligence.md",
     "Attachments/Pasted image 20260223092754.png",
     "Attachments/Pasted image 20260308211945.png",
     "Attachments/Pasted image 20260316192133.png",
