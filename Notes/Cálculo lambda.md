@@ -1,4 +1,4 @@
-El formalismo de Church, equivalente a las [[Máquina de Turing]].
+El formalismo de Church, equivalente a las [[máquina de Turing]].
 Se encuentra definido sobre variables.
 Es el lenguaje de programación más pequeño que es [[Turing completo]].
 

@@ -1,4 +1,4 @@
-[[Lambda calculus]] can also be used for *logic applications*; let's dive into conditionals!
+[[Lambda Calculus]] can also be used for *logic applications*; let's dive into conditionals!
 
 ---
 
@@ -9,7 +9,7 @@ T \equiv \lambda xy.x \\
 F \equiv \lambda xy.y
 \end{align*}
 $$
-Notice how the $0$ from [[lambda arithmetic]] is the same as $F$!
+Notice how the $0$ from [[Lambda Arithmetic]] is the same as $F$!
 # Logical operations
 
 The **AND** function of two arguments is defined as:

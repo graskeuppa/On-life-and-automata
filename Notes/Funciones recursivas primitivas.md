@@ -1,7 +1,7 @@
 # Funciones recursivas primitivas (r.p.)
 ---
 
-Otro modelo de cómputo con equivalencia a la [[Máquina de Turing]].
+Otro modelo de cómputo con equivalencia a la [[máquina de Turing]].
 
 > [!NOTE] Primitiva
 > No axiomática, pero está en línea con la intuición y se dan por hechas.

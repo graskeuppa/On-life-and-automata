@@ -11,5 +11,9 @@
   "showLineNumber": false,
   "showInlineTitle": false,
   "readableLineLength": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "attachmentFolderPath": "Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "alwaysUpdateLinks": true
 }

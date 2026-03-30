@@ -1,6 +1,6 @@
 # Turing y Church
 
-Turing y Church, tras definir sus [[formalismos para prodecimientos eficaces]], conjeturan que *sus definiciones son suficientes y adecuadas para definir a los procedimientos eficaces*.
+Turing y Church, tras definir sus [[Formalismos para prodecimientos eficaces]], conjeturan que *sus definiciones son suficientes y adecuadas para definir a los procedimientos eficaces*.
 
 Eventualmente se vería que ambos formalismos (y el de Post) son funciionalmente intercambiables (equivalentes).
 

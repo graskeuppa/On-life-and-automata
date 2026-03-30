@@ -1,4 +1,4 @@
-Se trata de una [[máquina de Turing]] que decide si $\forall n$, $n$ es la codificación de un una $\mathcal{M}$ sin círculos (como visto en [[circularidad]]).
+Se trata de una [[máquina de Turing]] que decide si $\forall n$, $n$ es la codificación de un una $\mathcal{M}$ sin círculos (como visto en [[Circularidad]]).
 
 El problema comienza suponiendo la existencia de una $\mathcal{M}_{D}$ universal que no tiene círculos y que puede decidir **CIRC?** $\forall n$.
 
