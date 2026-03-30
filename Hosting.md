@@ -1,0 +1,1 @@
+Is what we abbreviate web hosting to; it's the act of storing files on servers to make websites available to [[The internet]], there are many types of hosting and services that rely on it, such as email, domains and security certificates.

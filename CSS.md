@@ -1,0 +1,1 @@
+*Cascading Style Sheets* is a language designed to describe the appearance and formatting of a document written in [[HTML]], detailing things such as colours, layouts, fonts and other elements of visual presentation.

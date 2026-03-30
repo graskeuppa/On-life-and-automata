@@ -1,0 +1,23 @@
+/* 1. Center the palette */
+.prompt {
+    position: fixed;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    margin: 0 !important;
+    width: 600px !important; /* Set a clean, consistent width */
+}
+
+/* 2. Limit the number of visible commands */
+/* Adjust the 'max-height' value to show more or fewer rows */
+.prompt-results {
+    max-height: 180px !important; /* Roughly 4-5 commands */
+    overflow-y: auto; /* Allows you to still scroll if you need to */
+}
+
+/* 3. Clean up the bottom instructions */
+.prompt-instructions {
+    display: flex;
+    padding: 8px !important;
+    background: rgba(0,0,0,0.1); /* Subtle distinction for the footer */
+}

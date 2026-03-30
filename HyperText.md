@@ -1,0 +1,1 @@
+Links that connect web pages to one another, be it in a single website or between them.

@@ -1,0 +1,1 @@
+[[HyperText]] Transfer Protocol, it's the standard that allows browsers and servers to communicate with each other by sending and receiving requests while also providing with encryption for security.

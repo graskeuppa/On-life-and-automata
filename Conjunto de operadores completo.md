@@ -1,0 +1,1 @@
+Las operaciones de los [[Circuitos digitales]] son suficientes para representar cualquier función de conmutación, así, al *AND*, *OR* y *NOT* se les llama un **conjunto de operadores completo**. Este no es el único, pero es el que más se usa y el que usaré para mis notas.

@@ -1,0 +1,1 @@
+Also known as [[HyperText]] Markup Language is the most adopted and standard language used for building web pages. It follows the convention of [[Markup languages]] of using tags for structuring content, such as text images and other multimedia elements.

@@ -1,0 +1,1 @@
+[Originally created as a tool for military defence](https://education.cfr.org/learn/timeline/origins-internet), the internet is an interconnected global network of computers and various devices used for sharing information, allowing for the modern word to operate as it does today and continuing to open many avenues for technological innovation.

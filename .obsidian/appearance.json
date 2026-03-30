@@ -1,0 +1,17 @@
+{
+  "cssTheme": "Catppuccin",
+  "translucency": true,
+  "showRibbon": false,
+  "showViewHeader": true,
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "accentColor": "",
+  "theme": "system",
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "vanilla-tweaks",
+    "callout-noicon"
+  ],
+  "baseFontSizeAction": false
+}
