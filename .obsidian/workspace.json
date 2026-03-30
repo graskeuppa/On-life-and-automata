@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "JavaScript.md",
-                "mode": "source",
-                "source": true,
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
