@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9863031fc9e5a4b1",
+        "id": "525dd1e664447c32",
         "type": "tabs",
         "children": [
           {
-            "id": "087b34ff73786f4d",
+            "id": "75660114f9034497",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Lambda Recursion.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lambda Recursion"
+              "title": "New tab"
             }
           }
         ]
@@ -204,11 +190,9 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
-      "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "bases:Create new base": true,
       "graph:Open graph view": true,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -217,6 +201,8 @@
   },
   "active": "10e877f09d979f42",
   "lastOpenFiles": [
+    "Attachments/Drawing 2026-03-30 00.22.06.excalidraw.md",
+    "Notes/Untitled.md",
     "Notes/Lambda Recursion.md",
     "Notes/máquina de Turing.md",
     "Notes/CTP-T como ley natural.md",
@@ -231,7 +217,6 @@
     "Notes/Lambda Calculus.md",
     "Notes/Circuitos digitales.md",
     "Notes/Minimización de funciones de conmutación.md",
-    "Notes/Untitled.md",
     "Notes/Preguntas.md",
     "Notes/Funciones de conmutación.md",
     "Notes/Arquitectura de Von Neumann.md",
@@ -242,7 +227,6 @@
     "Notes/Álgebra Booleana y los postulados de Huntington.md",
     "Notes/Failure.md",
     "Notes/Increasing one's intelligence.md",
-    "Notes/Temas del examen de autómatas.md",
     "Attachments/Pasted image 20260223092754.png",
     "Attachments/Pasted image 20260308211945.png",
     "Attachments/Pasted image 20260316192133.png",
