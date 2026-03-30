@@ -11,10 +11,15 @@
             "id": "f0af5d6476186098",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "This is a test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "This is a test"
             }
           }
         ]
@@ -101,6 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "This is a test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +142,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of This is a test"
             }
           },
           {
@@ -242,6 +248,7 @@
   },
   "active": "f0af5d6476186098",
   "lastOpenFiles": [
+    "This is a test.md",
     "Lambda Recursion.md",
     "Lambda Arithmetic.md",
     "Untitled 1.md",
@@ -268,7 +275,6 @@
     "Tarea 2 - Computabilidad y decibilidad.md",
     "Tarea 1 - OYA.md",
     "Decodificadores y multiplexores.md",
-    "Organización y Arquitectura de Computadoras.md",
     "Pasted image 20260320174938.png",
     "Pasted image 20260320174928.png",
     "Pasted Image 20260320172629_086.png",
