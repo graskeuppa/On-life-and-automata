@@ -1,10 +1,3 @@
 A test it is!
 
-asdasd
-
-asd
-
-asd
-as
-d
-asd
+It's the beginning of the end. The car went up the avenue and disappeared around the bend.
