@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -220,6 +220,7 @@
   "lastOpenFiles": [
     "Notes/Markup languages.md",
     "README.md",
+    "Notes/markup.md",
     "Attachments/Drawing 2026-03-30 00.22.06.excalidraw.md",
     "Notes/Untitled.md",
     "Notes/Lambda Recursion.md",
@@ -243,7 +244,6 @@
     "Notes/Representación binaria de números negativos.md",
     "Notes/Conversiones entre sistemas numéricos.md",
     "Notes/Sistemas numéricos posicionales.md",
-    "Notes/Álgebra Booleana y los postulados de Huntington.md",
     "Attachments/Pasted image 20260223092754.png",
     "Attachments/Pasted image 20260308211945.png",
     "Attachments/Pasted image 20260316192133.png",

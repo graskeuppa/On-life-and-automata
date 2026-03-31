@@ -4,16 +4,8 @@ This is my personal [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) i
 
 ### Math and CompSci
 #### Web development
-- [[Markup languages]]
-- [[HTML]]
-- [[Frontend Development]]
-- [[HyperText]]
-- [[CSS]]
-- [[JavaScript]]
-- [[The internet]]
-- [[HTTP]]
-- [[Hosting]]
-- [[DNS]]
+- [Markup languages](obsidian://open?vault=On%20life%20and%20automata&file=Notes%2FMarkup%20languages)
+- 
 ### Language learning
 ### Music
 
