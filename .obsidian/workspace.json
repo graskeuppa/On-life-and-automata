@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "525dd1e664447c32",
+        "id": "b508466cd4872262",
         "type": "tabs",
         "children": [
           {
-            "id": "75660114f9034497",
+            "id": "3cb26715795cef91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -51,12 +37,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notes/The Zettelkasten method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from The Zettelkasten method"
             }
           }
         ]
@@ -72,7 +58,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes/The Zettelkasten method.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,14 +68,15 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for The Zettelkasten method"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ad7ff029d8bf5f51",
@@ -106,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Notes/The Zettelkasten method.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +129,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of The Zettelkasten method"
             }
           }
         ]
@@ -202,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289
+    "width": 289,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,10 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75660114f9034497",
+  "active": "3cb26715795cef91",
   "lastOpenFiles": [
-    "Notes/Markup languages.md",
+    "Notes/The Zettelkasten method.md",
+    "Notes/Knowledge instead of information.md",
     "README.md",
+    "Notes/Markup languages.md",
     "Notes/markup.md",
     "Attachments/Drawing 2026-03-30 00.22.06.excalidraw.md",
     "Notes/Untitled.md",
@@ -242,8 +232,6 @@
     "Notes/Arquitectura de Von Neumann.md",
     "Notes/Representación de números reales en punto flotante.md",
     "Notes/Representación binaria de números negativos.md",
-    "Notes/Conversiones entre sistemas numéricos.md",
-    "Notes/Sistemas numéricos posicionales.md",
     "Attachments/Pasted image 20260223092754.png",
     "Attachments/Pasted image 20260308211945.png",
     "Attachments/Pasted image 20260316192133.png",
