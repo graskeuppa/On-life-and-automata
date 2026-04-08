@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b508466cd4872262",
+        "id": "d129ff1d6e1fd795",
         "type": "tabs",
         "children": [
           {
-            "id": "3cb26715795cef91",
+            "id": "ee525322b1527f7b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289,
-    "collapsed": true
+    "width": 289
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +203,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cb26715795cef91",
+  "active": "10e877f09d979f42",
   "lastOpenFiles": [
+    "Notes/Untitled 1.md",
     "Notes/The Zettelkasten method.md",
     "Notes/Knowledge instead of information.md",
     "README.md",
@@ -231,7 +231,6 @@
     "Notes/Funciones de conmutación.md",
     "Notes/Arquitectura de Von Neumann.md",
     "Notes/Representación de números reales en punto flotante.md",
-    "Notes/Representación binaria de números negativos.md",
     "Attachments/Pasted image 20260223092754.png",
     "Attachments/Pasted image 20260308211945.png",
     "Attachments/Pasted image 20260316192133.png",
