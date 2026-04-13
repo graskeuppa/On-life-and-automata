@@ -11,10 +11,15 @@
             "id": "ee525322b1527f7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Untitled 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 2"
             }
           }
         ]
@@ -37,12 +42,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/The Zettelkasten method.md",
+                "file": "Notes/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Zettelkasten method"
+              "title": "Outgoing links from Untitled 2"
             }
           }
         ]
@@ -58,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/The Zettelkasten method.md",
+                "file": "Notes/Untitled 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -68,7 +73,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Zettelkasten method"
+              "title": "Backlinks for Untitled 2"
             }
           }
         ]
@@ -93,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/The Zettelkasten method.md",
+                "file": "Notes/Untitled 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +134,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Zettelkasten method"
+              "title": "Graph of Untitled 2"
             }
           }
         ]
@@ -160,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".png",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,11 +190,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 289
+    "width": 289,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10e877f09d979f42",
+  "active": "ee525322b1527f7b",
   "lastOpenFiles": [
+    "Notes/Untitled 2.md",
     "Notes/Untitled 1.md",
     "Notes/The Zettelkasten method.md",
     "Notes/Knowledge instead of information.md",
@@ -230,7 +237,6 @@
     "Notes/Preguntas.md",
     "Notes/Funciones de conmutación.md",
     "Notes/Arquitectura de Von Neumann.md",
-    "Notes/Representación de números reales en punto flotante.md",
     "Attachments/Pasted image 20260223092754.png",
     "Attachments/Pasted image 20260308211945.png",
     "Attachments/Pasted image 20260316192133.png",
